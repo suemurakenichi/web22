@@ -1,1 +1,1 @@
-alert(Hello,kenichi!):
+alert('Hello,kenichi!');
