@@ -1,1 +1,1 @@
-alrrt(Hello,kenichi!):
+alert(Hello,kenichi!):
